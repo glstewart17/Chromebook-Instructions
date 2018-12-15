@@ -1,6 +1,6 @@
 # Chromebook-Instructions
 
-1.	Go to CodeEnvy.com and click Get Started
+1.	Go to [Codenvy](https://codenvy.com/) and click Get Started.
 
 2.	Sign Up for free using your email address. If you do not have one, we will help you make an account.
 
@@ -11,7 +11,7 @@
 5.	You can then open the workspace by selecting it on the left. It should look like this:
 
 
-![alt text](https://github.com/glstewart17/Chromebook-Instructions/blob/master/CodeEnvyWorkspace.PNG "CodeEnvy Workspace")
+![alt text](https://github.com/glstewart17/Chromebook-Instructions/blob/master/CodenvyWorkspace.PNG "Codenvy Workspace")
 
 
 1.	Under the project tab, new folders and files can be imported.
@@ -28,5 +28,5 @@
   
     a.	Sample: cd /projects/console-python3-simple && python main.py
   
-    b.	Explanation: The first half of the line directs you to the correct folder and the second have runs the main.py file.
+    b.	Explanation: The first half of the line directs you to the correct folder and the second half runs the main.py file.
  
